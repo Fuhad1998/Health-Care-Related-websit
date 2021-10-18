@@ -6,6 +6,7 @@ import Doctors from './Pages/Homes/Doctors/Doctors';
 import Footer from './Pages/Homes/Footer/Footer';
 import Header from './Pages/Homes/Header/Header';
 import Home from './Pages/Homes/Home/Home';
+import Homes from './Pages/Homes/Homes/Homes';
 import Notfound from './Pages/Homes/Notfound/Notfound';
 import Register from './Pages/Homes/Register/Register';
 import Services from './Pages/Homes/Services/Services';
@@ -17,11 +18,12 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path="/">
-            <Home></Home>
+            <Homes></Homes>
           </Route>
-          <Route path="/home">
-            <Home></Home>
+          <Route path="/homes">
+            <Homes></Homes>
           </Route>
+         
           <Route path="/services">
             <Services></Services>
           </Route>

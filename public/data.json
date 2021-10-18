@@ -1,0 +1,74 @@
+[
+                    {
+                      "name": "Eye Care",
+                      "img": "https://i.ibb.co/6rWNQZF/eye-care-1.png",
+                      "description": "4Specialist Docotrs",
+                      "id": 1
+                    },
+                    {
+                      "name": "Dental Care",
+                      "img": "https://i.ibb.co/Cbgh1X8/dentist-1.jpg",
+                      "description": "2Specialist Docotrs",
+                      "id": 2
+                    },
+                    {
+                      "name": "Primary Care",
+                      "img": "https://i.ibb.co/18JJNMg/Primary-Care.jpg",
+                      "description": "More Specialist Docotrs",
+                      "id": 3
+                    },
+                    {
+                      "name": "Medicine",
+                      "img": "https://i.ibb.co/DG4TFK4/Medicine.jpg",
+                      "description": "Huge Specialist Expart",
+                      "id": 4
+                    },
+                    {
+                      "name": "EAR TREATMENT",
+                      "img": "https://i.ibb.co/8YbryFy/ear.jpg",
+                      "description": "3Specialist Docotrs",
+                      "id": 5
+                    },
+                    {
+                      "name": "DNA TESTING",
+                      "img": "https://i.ibb.co/BVSGyFX/DNA-TESTING.jpg",
+                      "description": "2Specialist Docotrs",
+                      "id": 6
+                    },
+                    {
+                      "name": "Dr. Fouad",
+                      "img": "https://i.ibb.co/zH0HS17/Dental-Care.jpg",
+                      "description": "About DNA TESTING",
+                      "id": 7
+                    },
+                    {
+                      "name": "Dr. Myles",
+                      "img": "https://i.ibb.co/jhswsck/DNA-TESTING.jpg",
+                      "description": "About EAR TREATMENT",
+                      "id": 8
+                    },
+                    {
+                      "name": "Dr. Khalid Abbed",
+                      "img": "https://i.ibb.co/kDQQB6m/EAR-TREATMENT.jpg",
+                      "description": "About Medicine",
+                      "id": 9
+                    },
+                    {
+                      "name": "Dr. Naresh Trehan",
+                      "img": "https://i.ibb.co/vd8srVh/Eye-Care.jpg",
+                      "description": "About Primary Care",
+                      "id": 10
+                    },
+                    {
+                      "name": "Dr. Arthur Reese Abright",
+                      "img": "https://i.ibb.co/wwhqDtc/Medicine.jpg",
+                      "description": "About Dental Care",
+                      "id": 11
+                    },
+                    {
+                      "name": "Dr. Mark",
+                      "description": "About Eye Care",
+                      "img": "https://i.ibb.co/brwC09r/download.jpg",
+                      "id": 12
+                    }
+                  ]
