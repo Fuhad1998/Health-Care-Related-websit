@@ -1,0 +1,33 @@
+
+.headr-container{
+                    background-color: aliceblue;
+}
+
+.headr-container nav{
+                    line-height: 40px;
+                  
+}
+.header-link{
+                    text-decoration: none;
+                    color:black;
+                     margin-right: 20px;
+                     padding: 5px;
+                     font-size: 20px;
+}
+.header-link:hover{
+                    font-weight: 900;
+                    color:black;
+}
+.header-name{
+                  
+                    text-decoration: none;
+                    color:black;
+                    padding: 5px;
+                    font-size: 20px;
+                   
+                    margin-right: 650px;
+}
+.header-name:hover{
+                    font-weight: 900;
+                    color:black;     
+}
