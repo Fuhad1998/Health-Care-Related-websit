@@ -5,12 +5,10 @@ import About from './Pages/Homes/About/About';
 import Doctors from './Pages/Homes/Doctors/Doctors';
 import Footer from './Pages/Homes/Footer/Footer';
 import Header from './Pages/Homes/Header/Header';
-import Home from './Pages/Homes/Home/Home';
 import Homes from './Pages/Homes/Homes/Homes';
 import Login from './Pages/Homes/Login/Login';
 import Notfound from './Pages/Homes/Notfound/Notfound';
 import Register from './Pages/Homes/Register/Register';
-import Services from './Pages/Homes/Services/Services';
 
 function App() {
   return (
@@ -23,10 +21,6 @@ function App() {
           </Route>
           <Route path="/homes">
             <Homes></Homes>
-          </Route>
-         
-          <Route path="/services">
-            <Services></Services>
           </Route>
           <Route path="/doctors">
           <Doctors></Doctors>
