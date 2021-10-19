@@ -1,0 +1,8 @@
+.button-reg{
+                    border-radius: 5px;
+                    background-color:goldenrod;
+                    border: 1px solid gray;
+}
+.button-reg:hover{
+                    font-weight: 600;
+}

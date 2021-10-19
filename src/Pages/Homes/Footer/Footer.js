@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
     <div className="mt-5">
-    <h2>Follow Us<i className="fab fa-facebook-f m-3 text-primary"></i><i className=" text-primary fab fa-twitter m-3"></i><i class="fab fa-instagram m-3 text-danger"></i><i className="fab fa-youtube m-3 text-danger"></i></h2>
+    <h2>Follow Us<i className="fab fa-facebook-f m-3 text-primary"></i><i className=" text-primary fab fa-twitter m-3"></i><i className="fab fa-instagram m-3 text-danger"></i><i className="fab fa-youtube m-3 text-danger"></i></h2>
     </div>
     <div >
       <p><i className="fas fa-copyright mb-5"></i> Copyright 2021 By Fuwad Hossian</p>

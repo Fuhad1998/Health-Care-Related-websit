@@ -1,19 +1,30 @@
 import React from "react";
+import './About.css'
 
 
 const About = () => {
-  
- 
-  
 
+  return <div className=" about-container">
+        <div >
+        <h1><i className="fas fa-stethoscope "></i></h1>
+          <h1>We Have:</h1>
+          <h1>  300 Doctor</h1>
 
-
-  return <div className="container">
-    <div>
-      <h1>this is about</h1>
-      
-    </div>
-
+        </div>
+        <div>
+        <h1>We Have:</h1>
+          <h1>50 Workers</h1>
+        </div>
+        <div>
+        <h1>We Have:</h1>
+          <h1>1000 Bad</h1>
+          <h1>2 ICO</h1>
+        </div>
+        <div>
+        <h1><i className="fas fa-ambulance"></i></h1>
+        <h1>We Have:</h1>
+        <h1>2 </h1>
+        </div>
   </div>;
 };
 
