@@ -7,6 +7,7 @@ import Footer from './Pages/Homes/Footer/Footer';
 import Header from './Pages/Homes/Header/Header';
 import Home from './Pages/Homes/Home/Home';
 import Homes from './Pages/Homes/Homes/Homes';
+import Login from './Pages/Homes/Login/Login';
 import Notfound from './Pages/Homes/Notfound/Notfound';
 import Register from './Pages/Homes/Register/Register';
 import Services from './Pages/Homes/Services/Services';
@@ -33,7 +34,10 @@ function App() {
           <Route path="/about">
             <About></About>
           </Route>
-          <Route path='/register'>
+          <Route path='/login'>
+            <Login></Login>
+          </Route>
+          <Route path='/Register'>
             <Register></Register>
           </Route>
           <Route path="*">

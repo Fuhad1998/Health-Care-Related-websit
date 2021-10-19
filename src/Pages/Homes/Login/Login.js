@@ -1,10 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import './Login.css';
 
-const Register = () => {
+const Login = () => {
   return <div className="login-form-container">
-    <div className="login-form">
-      <h1>Register</h1>
+                 <div className="login-form">
+      <h1>Log-in</h1>
       <form className="form" onSubmit="">
         <input className="input-form" type="email" name="" id="" placeholder="Your email"/>
         <br />
@@ -12,12 +13,12 @@ const Register = () => {
         <br />
         <input className="button-reg" type="submit" value="submit" />
       </form>
-      <p>Already have an account? <Link to="/login">Log-In</Link></p>
+      <p>New to Log-in? <Link to="/register">Creat Account</Link></p>
       <div className="form">
                       <button className="button-reg ">Google Sign-In</button>
       </div>
-    </div>
+    </div>     
   </div>;
 };
 
-export default Register;
+export default Login;
