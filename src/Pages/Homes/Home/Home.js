@@ -7,7 +7,7 @@ const Home = (props) => {
   return (
     <div>
       
-      <div className="">
+      <div className="container">
                        
                        <div className=" row-cols-1 row-cols-md-3 g-4">
                     <div className="col">

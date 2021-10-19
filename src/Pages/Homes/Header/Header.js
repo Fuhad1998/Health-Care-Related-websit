@@ -21,6 +21,7 @@ const Header = () => {
                   <button className="header-link" onClick={logOut}>Log-Out</button>
                   :
                   <Link className="header-link" to="/login">Log-In</Link>}
+                  <span>{user.displayName}</span>
                  
 
                              
