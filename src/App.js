@@ -2,6 +2,7 @@
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import './App.css';
 import About from './Pages/Homes/About/About';
+import Detail from './Pages/Homes/Detail/Detail';
 import Doctors from './Pages/Homes/Doctors/Doctors';
 import Footer from './Pages/Homes/Footer/Footer';
 import Header from './Pages/Homes/Header/Header';
@@ -34,6 +35,10 @@ function App() {
           <Route path='/Register'>
             <Register></Register>
           </Route>
+          <Route path='/detail'>
+            <Detail></Detail>
+          </Route>
+
           <Route path="*">
             <Notfound></Notfound>
           </Route>

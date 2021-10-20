@@ -8,7 +8,7 @@ const Doctors = () => {
     .then(res => res.json())
     .then(data =>setDoctor(data?.slice(6, 12)))
   }, [])
-  return <div>
+  return <div className="row">
     {
       doctor.map(doctor =><Doctor key={doctor.id} doctor={doctor}></Doctor>)
     }

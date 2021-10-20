@@ -6,3 +6,11 @@
 .button-reg:hover{
                     font-weight: 600;
 }
+.detail{
+                    text-decoration: none;
+                    color:black;
+}
+.detail:hover{
+                    color:black;
+
+}

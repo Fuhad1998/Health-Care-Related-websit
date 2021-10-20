@@ -56,11 +56,13 @@ const Homes = () => {
             <span className="visually-hidden">Next</span>
           </button>
         </div>
-    </div>
+    </div >
          
-          {
+        <div className="row">
+        {
             service.map(service =><Home service={service}></Home>)
           }
+        </div>
   </div>;
 };
 
