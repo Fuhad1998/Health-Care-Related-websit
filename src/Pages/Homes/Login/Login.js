@@ -1,10 +1,13 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import useFirebase from "../../../Hooks/UseFirebase";
+import { Link, uaeLocatio } from "react-router-dom";
+import useAuth from "../../../Hooks/useAuth";
+
 import "./Login.css";
 
 const Login = () => {
-  const {  loginUsingGoogle } = useFirebase();
+  const {  loginUsingGoogle } = useAuth();
+  // const location = uaeLocatio();
+  // console.log("came form", location.state?.from)
   return (
     <div className="login-form-container">
       <div className="login-form">
