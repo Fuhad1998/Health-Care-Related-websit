@@ -4,7 +4,7 @@ import useFirebase from "../../../Hooks/UseFirebase";
 import "./Login.css";
 
 const Login = () => {
-  const { user, loginUsingGoogle } = useFirebase();
+  const {  loginUsingGoogle } = useFirebase();
   return (
     <div className="login-form-container">
       <div className="login-form">
