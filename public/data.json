@@ -3,36 +3,42 @@
                       "name": "Eye Care",
                       "img": "https://i.ibb.co/6rWNQZF/eye-care-1.png",
                       "description": "4Specialist Docotrs",
+                      "detele": "Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible. You should get your eyes checked as often as your health care provider recommends it",
                       "id": 1
                     },
                     {
                       "name": "Dental Care",
                       "img": "https://i.ibb.co/Cbgh1X8/dentist-1.jpg",
                       "description": "2Specialist Docotrs",
+                      "detele": "Good dental or oral care is important to maintaining healthy teeth, gums and tongue. Oral problems, including bad breath, dry mouth, canker or cold sores, TMD, tooth decay, or thrush are all treatable with proper diagnosis and care.",
                       "id": 2
                     },
                     {
                       "name": "Primary Care",
                       "img": "https://i.ibb.co/18JJNMg/Primary-Care.jpg",
                       "description": "More Specialist Docotrs",
+                      "detele": "Funding for primary care varies a great deal between different countries: general taxation, national insurance systems, private insurance and direct payment by patients are all used, sometimes in combination. The payment system for primary care physicians also varies.",
                       "id": 3
                     },
                     {
                       "name": "Medicine",
                       "img": "https://i.ibb.co/DG4TFK4/Medicine.jpg",
                       "description": "Huge Specialist Expart",
+                      "detele": "Medicine is the science and practice of caring for a patient, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health..",
                       "id": 4
                     },
                     {
                       "name": "EAR TREATMENT",
                       "img": "https://i.ibb.co/8YbryFy/ear.jpg",
                       "description": "3Specialist Docotrs",
+                      "detele": "Signs of infection include a red eardrum or a bulging eardrum with fluid behind it. The fluid may be thin like during a cold, or thick like pus. It is located in the middle ear, just behind the ear drum",
                       "id": 5
                     },
                     {
                       "name": "DNA TESTING",
                       "img": "https://i.ibb.co/BVSGyFX/DNA-TESTING.jpg",
                       "description": "2Specialist Docotrs",
+                      "detele": "A genealogical DNA test is a DNA-based test used in genetic genealogy that looks at specific locations of a person's genome in order to find or verify ancestral genealogical relationships,",
                       "id": 6
                     },
                     {
