@@ -8,6 +8,7 @@ const Login = () => {
   const {  loginUsingGoogle } = useAuth();
   // const location = uaeLocatio();
   // console.log("came form", location.state?.from)
+  
   return (
     <div className="login-form-container">
       <div className="login-form">
