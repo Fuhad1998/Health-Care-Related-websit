@@ -1,10 +1,22 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import { useParams } from 'react-router';
 import './Detail.css'
 
 const Detail = () => {
+  const [detail, setDetail] = useState([]);
+  const {id} = useParams();
+  useEffect(()=>{
+    fetch('/data.json')
+    .then(res => res.json())
+    .then(data => setDetail(data?.slice(0, 6)))
+  }, [])
+const item = detail.find(pd=> pd.id == id) 
   return (
     <div className="detail-container container">
-      <h1>Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible. You should get your eyes checked as often as your health care provider recommends it</h1>
+      <img src={item?.img} alt="" />
+      <h2>{item?.detele}</h2>
+
+  
     </div>
   );
 };

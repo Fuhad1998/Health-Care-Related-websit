@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 import Home from "../Home/Home";
-import banner1 from "../../../images/banner/download (1).jfif";
-import banner2 from "../../../images/banner/download.jfif";
-import banner3 from "../../../images/banner/images.jfif";
+import banner1 from "../../../images/banner/New Project (1).jpg";
+import banner2 from "../../../images/banner/New Project (2).jpg";
+import banner3 from "../../../images/banner/New Project.jpg";
+import Doctors from "../Doctors/Doctors";
 
 
 const Homes = () => {
@@ -24,7 +25,7 @@ const Homes = () => {
             <div className="carousel-item active">
               <img src={banner1} className="d-block w-100" alt="..." />
             </div>
-            <div classNane="carousel-item">
+            <div className="carousel-item">
               <img src={banner2} className="d-block w-100" alt="..." />
             </div>
             <div className="carousel-item">
@@ -57,13 +58,22 @@ const Homes = () => {
           </button>
         </div>
     </div >
-         
-        <div className="row">
+         <h1 className="mt-2">Our Services</h1>
+       <div className="container">
+       <div className="row">
         {
             service.map(service =><Home service={service}></Home>)
           }
         </div>
+       </div>
+        <Doctors></Doctors>
   </div>;
 };
 
 export default Homes;
+
+
+
+
+
+

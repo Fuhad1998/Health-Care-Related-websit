@@ -2,11 +2,11 @@
 background-color: aliceblue;
 }
 
-.footer-section{
+/* .footer-section{
                     display: grid;
                     grid-template-columns: 1fr 1fr 1fr;
                   
-}
+} */
 .copy-right-section{
                     margin-bottom: 30px;
 }

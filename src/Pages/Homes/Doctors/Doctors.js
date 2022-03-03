@@ -8,10 +8,15 @@ const Doctors = () => {
     .then(res => res.json())
     .then(data =>setDoctor(data?.slice(6, 12)))
   }, [])
-  return <div className="row">
-    {
+  return <div>
+    <h1 className="text-danger mt-2">Our Doctors</h1>
+    <div className="container">
+   <div className="row">
+   {
       doctor.map(doctor =><Doctor key={doctor.id} doctor={doctor}></Doctor>)
     }
+   </div>
+  </div>
   </div>;
 };
 

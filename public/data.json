@@ -1,80 +1,80 @@
 [
                     {
                       "name": "Eye Care",
-                      "img": "https://i.ibb.co/6rWNQZF/eye-care-1.png",
+                      "img": "https://i.ibb.co/z6w3GMC/New-Project-2.jpg",
                       "description": "4Specialist Docotrs",
                       "detele": "Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible. You should get your eyes checked as often as your health care provider recommends it",
                       "id": 1
                     },
                     {
                       "name": "Dental Care",
-                      "img": "https://i.ibb.co/Cbgh1X8/dentist-1.jpg",
+                      "img": "https://i.ibb.co/b6zzBZf/New-Project-5.jpg",
                       "description": "2Specialist Docotrs",
                       "detele": "Good dental or oral care is important to maintaining healthy teeth, gums and tongue. Oral problems, including bad breath, dry mouth, canker or cold sores, TMD, tooth decay, or thrush are all treatable with proper diagnosis and care.",
                       "id": 2
                     },
                     {
                       "name": "Primary Care",
-                      "img": "https://i.ibb.co/18JJNMg/Primary-Care.jpg",
+                      "img": "https://i.ibb.co/61Hb1VP/New-Project.jpg",
                       "description": "More Specialist Docotrs",
                       "detele": "Funding for primary care varies a great deal between different countries: general taxation, national insurance systems, private insurance and direct payment by patients are all used, sometimes in combination. The payment system for primary care physicians also varies.",
                       "id": 3
                     },
                     {
                       "name": "Medicine",
-                      "img": "https://i.ibb.co/DG4TFK4/Medicine.jpg",
+                      "img": "https://i.ibb.co/WBCxD1N/New-Project-1.jpg",
                       "description": "Huge Specialist Expart",
                       "detele": "Medicine is the science and practice of caring for a patient, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health..",
                       "id": 4
                     },
                     {
                       "name": "EAR TREATMENT",
-                      "img": "https://i.ibb.co/8YbryFy/ear.jpg",
+                      "img": "https://i.ibb.co/vVmRyBs/New-Project-3.jpg",
                       "description": "3Specialist Docotrs",
                       "detele": "Signs of infection include a red eardrum or a bulging eardrum with fluid behind it. The fluid may be thin like during a cold, or thick like pus. It is located in the middle ear, just behind the ear drum",
                       "id": 5
                     },
                     {
                       "name": "DNA TESTING",
-                      "img": "https://i.ibb.co/BVSGyFX/DNA-TESTING.jpg",
+                      "img": "https://i.ibb.co/4M6TptW/New-Project-4.jpg",
                       "description": "2Specialist Docotrs",
                       "detele": "A genealogical DNA test is a DNA-based test used in genetic genealogy that looks at specific locations of a person's genome in order to find or verify ancestral genealogical relationships,",
                       "id": 6
                     },
                     {
                       "name": "Dr. Fouad",
-                      "img": "https://i.ibb.co/zH0HS17/Dental-Care.jpg",
+                      "img": "https://i.ibb.co/nzWNXPk/New-Project-1.jpg",
                       "description": "About DNA TESTING",
                       "id": 7
                     },
                     {
                       "name": "Dr. Myles",
-                      "img": "https://i.ibb.co/jhswsck/DNA-TESTING.jpg",
+                      "img": "https://i.ibb.co/bRbCsJT/New-Project-2.jpg",
                       "description": "About EAR TREATMENT",
                       "id": 8
                     },
                     {
                       "name": "Dr. Khalid Abbed",
-                      "img": "https://i.ibb.co/kDQQB6m/EAR-TREATMENT.jpg",
+                      "img": "https://i.ibb.co/2PJ3H0N/New-Project-3.jpg",
                       "description": "About Medicine",
                       "id": 9
                     },
                     {
                       "name": "Dr. Naresh Trehan",
-                      "img": "https://i.ibb.co/vd8srVh/Eye-Care.jpg",
+                      "img": "https://i.ibb.co/CmzSTS3/New-Project-4.jpg",
                       "description": "About Primary Care",
                       "id": 10
                     },
                     {
                       "name": "Dr. Arthur Reese Abright",
-                      "img": "https://i.ibb.co/wwhqDtc/Medicine.jpg",
+                      "img": "https://i.ibb.co/rk29YDj/New-Project-5.jpg",
                       "description": "About Dental Care",
                       "id": 11
                     },
                     {
                       "name": "Dr. Mark",
                       "description": "About Eye Care",
-                      "img": "https://i.ibb.co/brwC09r/download.jpg",
+                      "img": "https://i.ibb.co/Hqvb89j/New-Project-6.jpg",
                       "id": 12
                     }
                   ]
